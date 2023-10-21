@@ -16,6 +16,7 @@
         <li>Speed: 1Gbps Shared</li>
         <li>Traffic: 3TB</li>
         <li>Endpoint IPV4: 45.95.172.65</li>
+        <li>Endpoint IPV6: 2a01:7a7:2:3343::4780:130a</li>
         <li>Wireguard Public Key: vtE3OIISGDQeTHsZUG1TG9/2tEsotLlE8orYcb92oRE=</li>
         <li>Wireguard Port: 2xxxx (xxxx = last 4 digits of ASN)</li>
         <li>Tunnel IPv4: 172.20.29.31</li>
